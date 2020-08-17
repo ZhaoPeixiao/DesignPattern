@@ -1,0 +1,13 @@
+package com.peixiao.state;
+
+/**
+ * @Author: Peixiao Zhao
+ */
+public abstract class State {
+
+    public abstract void deductMoney();
+
+    public abstract boolean raffle();
+
+    public abstract void dispensePrize();
+}
