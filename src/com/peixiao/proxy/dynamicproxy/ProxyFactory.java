@@ -37,7 +37,6 @@ public class ProxyFactory {
                         System.out.println("JDK代理结束");
                         return returnVal;
                     }
-
                 });
     }
 }

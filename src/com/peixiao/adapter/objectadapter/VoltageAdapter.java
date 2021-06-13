@@ -24,4 +24,6 @@ public class VoltageAdapter implements IVoltage5V {
         }
         return dst;
     }
+
+
 }
